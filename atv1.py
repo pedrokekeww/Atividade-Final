@@ -1,8 +1,6 @@
 #Nome: Pedro Vinicius Ernesto Barbosa
 #Curso: P2 Informática
 #Prof.: Allan Kelvin
-#Obs: Use o comando "python main.py" para executar o programa no Shell
-#Unico jeito q consegui fazer essas comparações entre maior ou menor, desculpa se ta feio
 temps = []
 abaixodamedia = []
 while True:
